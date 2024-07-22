@@ -1,5 +1,5 @@
 {
-  "name": "backend-nodejs-hoidanit",
+  "name": "backend-nodejs",
   "version": "1.0.0",
   "description": "Backend nodejs",
   "main": "server.js",
@@ -12,10 +12,6 @@
     "nodejs",
     "react"
   ],
-  "author": {
-    "name": "Hỏi Dân IT",
-    "url": "https://hoidanit.vn"
-  },
   "license": "ISC",
   "dependencies": {
     "dotenv": "16.4.5",
